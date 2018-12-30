@@ -3,6 +3,7 @@
 
 [2018-12-28](./2018-12-28.md) Cetus学习的开始
 
+[2018-12-30](./2018-12-30.md) About Blue-Whale-Repo
 
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/)       .   .    .     [editor on GitHub](https://github.com/haipengqu/Blog/edit/master/README.md)  
