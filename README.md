@@ -10,3 +10,5 @@
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/)       .   .    .     [editor on GitHub](https://github.com/haipengqu/Blog/edit/master/README.md)  
 
 Our LabPage：  [security.ouc.edu.cn](http://security.ouc.edu.cn)  
+
+Some News of Our Team Members：
