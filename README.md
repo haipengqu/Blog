@@ -12,13 +12,14 @@ My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/)      
 Our LabPage：  [security.ouc.edu.cn](http://security.ouc.edu.cn)  
 
 Some News of Our Team Members：  
-信息安全@养鱼大学 https://zhuanlan.zhihu.com/p/27405044  
-半岛都市报 http://news.bandao.cn/news_html/201705/20170523/news_20170523_2732002_2.shtml  
-崔勤 https://www.leiphone.com/news/201606/2JmjERIFIOLnpqP4.html  
-孙磊 赵汉青 http://news.iqilu.com/shandong/shandonggedi/20170514/3542373.shtml  
-张焱宇 http://wemedia.ifeng.com/88175344/wemedia.shtml  
-庄园 https://www.blackhat.com/eu-18/arsenal/schedule/#iot-home-guard-a-tool-for-malicious-behavior-detection-in-iot-devices-12854  
-QCTF http://xman2018.xctf.org.cn/936d9f5c-5bc0-47d8-ac32-5135a89a3393/  
+研究信息安全@养鱼大学  https://zhuanlan.zhihu.com/p/27405044  
+半岛都市报  http://news.bandao.cn/news_html/201705/20170523/news_20170523_2732002_2.shtml  
+崔勤/雷锋网    https://www.leiphone.com/news/201606/2JmjERIFIOLnpqP4.html  
+赵汉青/雷锋网  https://www.leiphone.com/news/201610/UaEeg1aIb3cEtJQ4.html  
+孙磊/齐鲁网    http://news.iqilu.com/shandong/shandonggedi/20170514/3542373.shtml  
+张焱宇/GeekPwn  https://xw.qq.com/cmsid/20181112A1N93S/20181112A1N93S00  
+庄园/Black Hat  https://www.blackhat.com/eu-18/arsenal/schedule/#iot-home-guard-a-tool-for-malicious-behavior-detection-in-iot-devices-12854  
+QCTF/Xman入营赛  http://xman2018.xctf.org.cn/936d9f5c-5bc0-47d8-ac32-5135a89a3393/  
 360 IoT黑客马拉松 https://security.360.cn/News/news/id/185.html  
-RHG竞赛 https://m.huanqiu.com/r/MV8wXzEzMTA3MTMzXzE4NzJfMTUzNzg2MjM0MA==  
-张焱宇 http://cs.ouc.edu.cn/news-con.aspx?id=2129  
+RHG机器人网络安全大赛  https://m.huanqiu.com/r/MV8wXzEzMTA3MTMzXzE4NzJfMTUzNzg2MjM0MA==  
+张焱宇/互联网安全峰会  http://cs.ouc.edu.cn/news-con.aspx?id=2129  
