@@ -17,7 +17,7 @@ Some News of Our Team Members：
 崔勤 https://www.leiphone.com/news/201606/2JmjERIFIOLnpqP4.html  
 孙磊 赵汉青 http://news.iqilu.com/shandong/shandonggedi/20170514/3542373.shtml  
 张焱宇 http://wemedia.ifeng.com/88175344/wemedia.shtml  
-庄园 https://www.blackhat.com/eu-18/arsenal/schedule/#iot-home-guard-a-tool-for-malicious-behavior-detection-in-iot-devices-12854
+庄园 https://www.blackhat.com/eu-18/arsenal/schedule/#iot-home-guard-a-tool-for-malicious-behavior-detection-in-iot-devices-12854  
 QCTF http://xman2018.xctf.org.cn/936d9f5c-5bc0-47d8-ac32-5135a89a3393/  
 360 IoT黑客马拉松 https://security.360.cn/News/news/id/185.html  
 RHG竞赛 https://m.huanqiu.com/r/MV8wXzEzMTA3MTMzXzE4NzJfMTUzNzg2MjM0MA==  
