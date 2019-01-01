@@ -6,6 +6,8 @@
 
 [2018-12-30](./2018-12-30.md) About Blue-Whale-Repo
 
+[2019-01-01](./2019-01-01.md) New year's day
+
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Our LabPage：  [http://security.ouc.edu.cn](http://security.ouc.edu.cn)  
 
