@@ -33,6 +33,6 @@ Some News About Our Team Members：
 
 &ensp;·360 IoT黑客马拉松: &ensp; [https://security.360.cn/News/news/id/185.html](https://security.360.cn/News/news/id/185.html)  
 
-&ensp;·RHG机器人网络安全大赛: &ensp;  [https://m.huanqiu.com/r/MV8wXzEzMTA3MTMzXzE4NzJfMTUzNzg2MjM0MA==](https://m.huanqiu.com/r/MV8wXzEzMTA3MTMzXzE4NzJfMTUzNzg2MjM0MA==)  
+&ensp;·RHG机器人网络安全大赛: &ensp;  [http://finance.ifeng.com/a/20180925/16522360_0.shtml](http://finance.ifeng.com/a/20180925/16522360_0.shtml)  
 
 &ensp;·张焱宇（互联网安全峰会）: &ensp;  [http://cs.ouc.edu.cn/news-con.aspx?id=2129](http://cs.ouc.edu.cn/news-con.aspx?id=2129)  
