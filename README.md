@@ -7,9 +7,7 @@
 [2018-12-30](./2018-12-30.md) About Blue-Whale-Repo
 
 ----
-My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/)       .   .    .     [editor on GitHub](https://github.com/haipengqu/Blog/edit/master/README.md)  
-
-Our LabPage：  [security.ouc.edu.cn](http://security.ouc.edu.cn)  
+My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [editor on GitHub](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Our LabPage：  [security.ouc.edu.cn](http://security.ouc.edu.cn)  
 
 Some News of Our Team Members：  
 
