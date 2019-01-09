@@ -8,6 +8,8 @@
 
 [2019-01-01](./2019-01-01.md) New year's day
 
+2019-01-09 整理了SCI 一二区（小类）与我们研究方向相关的期刊列表，供参考
+
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
