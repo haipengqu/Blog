@@ -12,7 +12,7 @@
 
 2019-01-09 整理了SCI 一二区（小类）与我们研究方向相关的期刊列表，供参考
 
-2019-01-21 2018年大陆以第一/通讯在四大安全会议上发表论文二十多篇，同学们努力  [2018 安全top4总结会日程](./2018Big4-China日程.pdf)
+2019-01-21 2018年大陆以第一/通讯在四大安全会议上发表论文二十多篇，同学们努力  [《2018 安全top4总结会日程》](./2018Big4-China日程.pdf)
 
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
