@@ -14,6 +14,12 @@
 
 2019-01-21 2018年大陆以第一/通讯在四大安全会议上发表论文二十多篇，同学们努力  [《2018 安全top4总结会日程》](./2018Big4-China日程.pdf)
 
+2019-02-04 整理完成了硕士学位论文自检表
+
+2019-02-10 了解了SigCSE的会议相关情况，包括主题、CFP、2018的论文等，后面会重点关注
+
+
+
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
