@@ -20,7 +20,7 @@
 
 [2019-02-11](./2019-02-11.md) SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+&ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
 VUzzer: Application-aware Evolution Fuzzing
 
 2019-02-12 Directed Greybox Fuzzing
