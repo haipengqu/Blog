@@ -25,6 +25,8 @@ VUzzer: Application-aware Evolution Fuzzing
 
 2019-02-12 Directed Greybox Fuzzing
 
+2019-02-13 Revolutionizing the Field of Grey-box Attack Surface Testing with Evolutionary Fuzzing
+
 
 
 ----
