@@ -27,6 +27,12 @@ VUzzer: Application-aware Evolution Fuzzing
 
 2019-02-13 Revolutionizing the Field of Grey-box Attack Surface Testing with Evolutionary Fuzzing
 
+2019-02-14 Experience Report: How is Dynamic Symbolic Execution Different from Manual Testing? A Study on KLEE
+
+2019-02-15 Automated Whitebox Fuzz Testing
+
+
+
 
 
 ----
