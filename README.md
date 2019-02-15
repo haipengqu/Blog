@@ -31,6 +31,8 @@ VUzzer: Application-aware Evolution Fuzzing
 
 2019-02-15 Automated Whitebox Fuzz Testing
 
+&ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
+Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Code Mutation and Dynamic Slicing
 
 
 
