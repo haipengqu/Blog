@@ -34,8 +34,10 @@ VUzzer: Application-aware Evolution Fuzzing
 &ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
 Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Code Mutation and Dynamic Slicing
 
+2019-02-16 Billions and Billions of Constraints: Whitebox Fuzz Testing in Production
 
-
+&ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
+Coverage-based Greybox Fuzzing as Markov Chain
 
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
