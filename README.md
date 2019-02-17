@@ -39,6 +39,13 @@ Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Cod
 &ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
 Coverage-based Greybox Fuzzing as Markov Chain
 
+2019-02-17 Mining Input Grammars from Dynamic Taints
+
+&ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
+In-Memory Fuzzing for Binary Code Similarity Analysis 
+
+
+
 ----
 My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
