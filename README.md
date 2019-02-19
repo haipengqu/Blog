@@ -1,4 +1,4 @@
-## Welcome to Mr.Q's Blog
+## Welcome to Mr.Q's Blog19
 ---
 [2018-12-12](./2018-12-12.jpg) Team-Cetus招募信（2018年度）
 
@@ -44,10 +44,13 @@ Coverage-based Greybox Fuzzing as Markov Chain
 &ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
 In-Memory Fuzzing for Binary Code Similarity Analysis 
 
+2019-02-18 Efficient Fuzz Testing Leveraging Input, Code, and Execution
 
+&ensp;&ensp;&ensp;&ensp;-&ensp;&ensp;-&ensp;&ensp;&ensp;
+Search-based Data-flow Test Generation
 
 ----
-My Blog：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+My Blog19：  [haipengqu.github.io/Blog/](https://haipengqu.github.io/Blog/) &ensp;&ensp;&ensp; [(editor on GitHub)](https://github.com/haipengqu/Blog/edit/master/README.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 Our LabPage：  [http://security.ouc.edu.cn](http://security.ouc.edu.cn)&ensp;&ensp;&ensp;&ensp;[https://blue-whale.me](https://blue-whale.me)  
 
